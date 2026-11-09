@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$(LOCALAPPDATA)\DOTNET-Lab1\$(MSBuildProjectName)\obj\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(LOCALAPPDATA)\DOTNET-Lab1\$(MSBuildProjectName)\obj\</MSBuildProjectExtensionsPath>
+    <BaseOutputPath>$(LOCALAPPDATA)\DOTNET-Lab1\$(MSBuildProjectName)\bin\</BaseOutputPath>
+  </PropertyGroup>
+</Project>
